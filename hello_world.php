@@ -1,3 +1,3 @@
 <?php
- echo "Hello world";
+ echo "I want to tell the world I'm using Github";
 ?>
