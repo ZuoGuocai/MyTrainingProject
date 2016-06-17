@@ -1,3 +1,3 @@
 <?php
- echo "I want to tell the world I'm using Github";
+ echo "Hello Kitty,If it's good for everything,it's good for nothing!";
 ?>
